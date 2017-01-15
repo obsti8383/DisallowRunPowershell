@@ -8,7 +8,7 @@ Disables PowerShell execution via Windows Explorer.
 
 Example_LNK.zip: Contains a .lnk file that was created with a modified .vbs from https://github.com/xillwillx/tricky.lnk. It looks like a txt file, opens Notepad.exe and then downloads Procexp.exe from sysinternals.live.com and starts it.
 
-To defend against such an attack (and direct execution of .ps1 files) you can add the following .reg file:  	enable_disallowrun_powershell.reg
+To defend against such an attack (and direct execution of .ps1 files) you can add the following .reg file:  	enable_disallowrun_powershell.reg and _restart Windows_.
 
 To disable it use: disable_disallowrun_powershell.reg
 
