@@ -19,6 +19,9 @@ Registry keys are created below: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Cu
 
 So this only protects the current user. You have to enable it for all users that should be protected.
 
+##TODO
+Also disable other tools that can be used to invoke powershell (e.g. cmd.exe)
+
 ##Used sources
 * https://technet.microsoft.com/en-us/library/cc960900.aspx
 
