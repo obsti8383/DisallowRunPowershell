@@ -3,7 +3,7 @@ Some material for preventing simple malicious powershell attacks - uses Disallow
 
 Disables PowerShell execution via Windows Explorer.
 
-! cmd.exe or other programs can still be used (and misused) to start powershell.exe
+**cmd.exe or other programs can still be used (and misused) to start powershell.exe**
 
 
 Example_LNK.zip: Contains a .lnk file that was created with a modified .vbs from https://github.com/xillwillx/tricky.lnk. It looks like a txt file, opens Notepad.exe and then downloads Procexp.exe from sysinternals.live.com and starts it.
