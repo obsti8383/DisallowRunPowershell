@@ -10,7 +10,7 @@ Example_LNK.zip: Contains a .lnk file that was created with a modified .vbs from
 
 To defend against such an attack (and direct execution of .ps1 files) you can add the following .reg file:  	enable_disallowrun_powershell.reg and _restart Windows_.
 
-To disable it use: disable_disallowrun_powershell.reg
+To disable it use: disable_disallowrun_powershell.reg and _restart Windows_.
 
 Registry keys are created below: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer
 
