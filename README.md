@@ -25,3 +25,5 @@ So this only protects the current user. You have to enable it for all users that
 * http://fipso100.blogspot.de/2016/06/use-windows-lnk-file-to-execute.html
 
 * http://www.howtogeek.com/howto/8739/restrict-users-to-run-only-specified-programs-in-windows-7/
+
+* https://github.com/xillwillx/tricky.lnk
